@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Task Manager App
+
+Este es un proyecto de gestión de tareas creado con [Next.js](https://nextjs.org) y diseñado con Tailwind CSS. Permite crear, editar, eliminar y filtrar tareas, manteniendo la persistencia mediante `localStorage`. La interfaz de usuario incluye modales para agregar y editar tareas, lo que ofrece una experiencia de usuario intuitiva y fluida.
+
+## Funcionalidades
+
+- Crear tareas con título, descripción, estado y fecha de vencimiento.
+- Editar tareas existentes.
+- Eliminar tareas.
+- Filtrar tareas por estado ("Todos", "Completada" o "Pendiente").
+- Persistencia de tareas en `localStorage`.
+- Interfaz de usuario responsiva con modales para interacción.
+- Uso de `React` y `TypeScript` para el desarrollo.
+
 ## Getting Started
 
 First, run the development server:
